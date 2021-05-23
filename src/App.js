@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          脂肪
+          コミュニケーション
         </a>
       </header>
     </div>
