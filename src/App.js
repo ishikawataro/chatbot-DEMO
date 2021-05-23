@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          オリーブオイル
+          えごま油
         </a>
       </header>
     </div>
