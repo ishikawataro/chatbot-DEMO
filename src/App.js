@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          理研のノンオイル
+          脂肪
         </a>
       </header>
     </div>
