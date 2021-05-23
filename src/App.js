@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          えごましそ
+          ココナッツオイル
         </a>
       </header>
     </div>
