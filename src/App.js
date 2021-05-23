@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          コミュニケーション
+          最初から
         </a>
       </header>
     </div>
