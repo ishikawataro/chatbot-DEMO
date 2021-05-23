@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          ココナッツオイル
+          理研のノンオイル
         </a>
       </header>
     </div>
