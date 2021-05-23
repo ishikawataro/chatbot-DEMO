@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          ゴマ油
+          菜種油
         </a>
       </header>
     </div>
