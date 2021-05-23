@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          菜種油
+          オリーブオイル
         </a>
       </header>
     </div>
