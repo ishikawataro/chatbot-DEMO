@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          えごま油
+          えごま油しそ油
         </a>
       </header>
     </div>
